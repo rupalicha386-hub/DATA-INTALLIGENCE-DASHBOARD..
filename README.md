@@ -111,14 +111,6 @@ Compares sales performance across different regions.
 - `README.md` – Project documentation.
 
 ---
-
-## 👩‍💻 Author
-
-**Rupali Chauhan**
-
-📚 BCA Student  
-📊 Interested in Data Analysis and Data Visualization
-
 ---
 
 ⭐ Thank you for visiting my project!
